@@ -1,0 +1,3 @@
+/var/log/errortest1.txt: 2
+/var/log/errortest2.txt: 1
+/var/log/errortest3.txt: 0

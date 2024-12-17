@@ -1,0 +1,4 @@
+Characters: 23
+Words: 5
+Lines: 2
+Longest Word: tesseract

@@ -1,0 +1,4 @@
+Characters: 111
+Words: 4
+Lines: 5
+Longest Word: Hello
