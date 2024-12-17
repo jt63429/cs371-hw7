@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - main  # You can specify which branches you want to trigger this workflow on
+      - master  # You can specify which branches you want to trigger this workflow on
 
 jobs:
   build:
